@@ -1,0 +1,45 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/infection-of-skin-and-subcutaneous-tissues---secondary.py
+inputModule3:
+  class: File
+  path: python/infection-of-skin-and-subcutaneous-tissues-lesion---secondary.py
+inputModule4:
+  class: File
+  path: python/infection-of-skin-and-subcutaneous-tissues-cellulitis---secondary.py
+inputModule5:
+  class: File
+  path: python/infection-of-skin-and-subcutaneous-tissues-dermatitis---secondary.py
+inputModule6:
+  class: File
+  path: python/other-infection-of-skin-and-subcutaneous-tissues---secondary.py
+inputModule7:
+  class: File
+  path: python/viral-infection-of-skin-and-subcutaneous-tissues---secondary.py
+inputModule8:
+  class: File
+  path: python/infection-of-skin-and-subcutaneous-tissues-erysipelas---secondary.py
+inputModule9:
+  class: File
+  path: python/infection-of-skin-and-subcutaneous-tissues-abscess---secondary.py
+inputModule10:
+  class: File
+  path: python/infection-of-skin-and-subcutaneous-tissues-scabies---secondary.py
+inputModule11:
+  class: File
+  path: python/infection-of-skin-and-subcutaneous-tissues-myiasis---secondary.py
+inputModule12:
+  class: File
+  path: python/infection-of-skin-and-subcutaneous-tissues-impetigo---secondary.py
+inputModule13:
+  class: File
+  path: python/infection-of-skin-and-subcutaneous-tissues-membrane---secondary.py
+inputModule14:
+  class: File
+  path: python/infection-of-skin-and-subcutaneous-tissues-dermatophytosis---secondary.py
+inputModule15:
+  class: File
+  path: python/output-cases.py
